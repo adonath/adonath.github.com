@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://adonath.github.io
-title: One Summer for AstroPy 
-subtitle: A GSoC 2013 blog for astropy.
-author: A.Donath
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
 description:
 
