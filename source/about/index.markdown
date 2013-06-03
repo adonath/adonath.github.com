@@ -2,7 +2,7 @@
 layout: page
 title: "about"
 ---
-Ay name is Axel Donath and I've studied physics in Heidelberg with Astronomy and Astrophysics
+My name is Axel Donath and I've studied physics in Heidelberg with Astronomy and Astrophysics
 as major subjects. Currently I'm working on my Master thesis at the Max-Planck Institute for
 Nuclear Physics in Heidelberg. My focus lies on Very-High-Energy data analysis.
 Furthermore I'm working as a student assistant at the Heidelberg Collaboration for Image
